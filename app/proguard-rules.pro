@@ -1,0 +1,8 @@
+-dontwarn javax.annotation.**
+-dontwarn org.conscrypt.**
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-keep class com.roninai.app.data.entity.** { *; }
+-keep class com.roninai.app.data.dao.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*

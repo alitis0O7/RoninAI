@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoninAI</string>
+    <string name="engine_notification_channel">roninai_engine</string>
+    <string name="engine_notification_channel_name">RoninAI Engine</string>
+    <string name="engine_notification_title">RoninAI Engine Active</string>
+    <string name="engine_notification_text">Processing in background…</string>
+    <string name="session_notification_channel">roninai_sessions</string>
+    <string name="session_notification_channel_name">Session Alerts</string>
+    <string name="mic_permission_rationale">RoninAI needs microphone access for voice interaction</string>
+    <string name="camera_permission_rationale">RoninAI needs camera access for image analysis</string>
+</resources>
